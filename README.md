@@ -1,4 +1,4 @@
-# NYCU Computer Vision 2026 HW1
+# NYCU Visual Recognitionusing Deep Learning 2026 HW1
 
 - **Student ID:** 314551001
 - **Name:** Tan Chun Xin
